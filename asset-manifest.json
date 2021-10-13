@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/ppp5/static/js/main.60fb4b11.chunk.js",
-    "main.js.map": "/ppp5/static/js/main.60fb4b11.chunk.js.map",
+    "main.js": "/ppp5/static/js/main.7a541daa.chunk.js",
+    "main.js.map": "/ppp5/static/js/main.7a541daa.chunk.js.map",
     "runtime-main.js": "/ppp5/static/js/runtime-main.cca15afb.js",
     "runtime-main.js.map": "/ppp5/static/js/runtime-main.cca15afb.js.map",
-    "static/js/2.0ecac9db.chunk.js": "/ppp5/static/js/2.0ecac9db.chunk.js",
-    "static/js/2.0ecac9db.chunk.js.map": "/ppp5/static/js/2.0ecac9db.chunk.js.map",
+    "static/js/2.507910ac.chunk.js": "/ppp5/static/js/2.507910ac.chunk.js",
+    "static/js/2.507910ac.chunk.js.map": "/ppp5/static/js/2.507910ac.chunk.js.map",
     "index.html": "/ppp5/index.html",
-    "static/js/2.0ecac9db.chunk.js.LICENSE.txt": "/ppp5/static/js/2.0ecac9db.chunk.js.LICENSE.txt",
+    "static/js/2.507910ac.chunk.js.LICENSE.txt": "/ppp5/static/js/2.507910ac.chunk.js.LICENSE.txt",
     "static/media/DownloadApp.676101fb.jpg": "/ppp5/static/media/DownloadApp.676101fb.jpg",
     "static/media/logosize.617511ac.svg": "/ppp5/static/media/logosize.617511ac.svg",
     "static/media/test.89ffa7e7.webp": "/ppp5/static/media/test.89ffa7e7.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.cca15afb.js",
-    "static/js/2.0ecac9db.chunk.js",
-    "static/js/main.60fb4b11.chunk.js"
+    "static/js/2.507910ac.chunk.js",
+    "static/js/main.7a541daa.chunk.js"
   ]
 }
