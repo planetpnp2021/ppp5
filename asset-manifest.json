@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ppp5/static/js/main.387193fa.chunk.js",
-    "main.js.map": "/ppp5/static/js/main.387193fa.chunk.js.map",
+    "main.js": "/ppp5/static/js/main.95b1509a.chunk.js",
+    "main.js.map": "/ppp5/static/js/main.95b1509a.chunk.js.map",
     "runtime-main.js": "/ppp5/static/js/runtime-main.cca15afb.js",
     "runtime-main.js.map": "/ppp5/static/js/runtime-main.cca15afb.js.map",
     "static/js/2.507910ac.chunk.js": "/ppp5/static/js/2.507910ac.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.cca15afb.js",
     "static/js/2.507910ac.chunk.js",
-    "static/js/main.387193fa.chunk.js"
+    "static/js/main.95b1509a.chunk.js"
   ]
 }
